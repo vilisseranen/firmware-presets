@@ -1,0 +1,29 @@
+#$ TITLE: Vilisseranen 4.4 OSD settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: OSD, vilisseranen
+#$ AUTHOR: vilisseranen
+#$ DESCRIPTION: Vilisseranen custom OSD. Clean OSD1, more info on OSD2
+
+set osd_warn_bitmask = 50175
+set osd_rssi_dbm_alarm = -102
+set osd_rssi_pos = 314
+set osd_link_quality_pos = 6519
+set osd_rssi_dbm_pos = 4439
+set osd_tim_2_pos = 6199
+set osd_flymode_pos = 6541
+set osd_throttle_pos = 4162
+set osd_vtx_channel_pos = 6548
+set osd_current_pos = 4416
+set osd_mah_drawn_pos = 6496
+set osd_craft_name_pos = 6177
+set osd_pidrate_profile_pos = 4186
+set osd_warnings_pos = 6249
+set osd_avg_cell_voltage_pos = 6529
+set osd_disarmed_pos = 6410
+set osd_esc_rpm_pos = 161
+set osd_core_temp_pos = 4130
+set osd_stat_bitmask = 8521444
+set osd_canvas_width = 30
+set osd_canvas_height = 13
